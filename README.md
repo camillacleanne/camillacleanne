@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on the backedn 
 - 🌱 I’m currently learning Spring Security
-- 🤔 I’m looking for help with ...
 - 😄 Pronouns: ela/dela/she/her
-- ⚡ Fun fact: ...
 -->
 
  <div>
