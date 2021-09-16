@@ -19,5 +19,5 @@
   <img align="center" alt="Camis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Camis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Camis-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Camis-yoda" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040806117-PDC4TPTFKVM7DTP8RSXF/App-Developer.gif">
 </div>
