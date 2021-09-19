@@ -1,7 +1,7 @@
 ### E ai, tudo massa?
 ### Yo!How’s it going?  
 
-- 🔭 Atualmente trabalho como instrutora de desenvolvimento com foco no backend.
+- 🔭 Atualmente trabalho como instrutora de desenvolvimento web com foco no backend.
 - 🔭 I’m currently working on NGO called Generation Brasil. I'm a web development instructor
 - 🌱 Aprendendo MySql | Spring | Java
 - 🌱 I’m currently learning MySql | Spring | Java
