@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como instrutora de desenvolvimento web com foco no backend.
 - 🔭 I’m currently working on NGO called Generation Brasil. I'm a web development instructor
-- 🌱 Aprendendo MySql | Spring | Java
+- 🌱 Aprendendo Java | Sql | Spring | Angular | Bootstrap
 - 🌱 I’m currently learning MySql | Spring | Java
 - 😄 Pronouns: ela/dela/she/her
 -->
