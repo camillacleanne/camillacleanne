@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on NGO called Generation Brasil. I'm a web development instructor
 - 🌱 Aprendendo MySql | Spring | Java
 - 🌱 I’m currently learning MySql | Spring | Java
-- 😄 Pronome: ela/dela/she/her
 - 😄 Pronouns: ela/dela/she/her
 -->
 
