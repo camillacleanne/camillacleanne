@@ -1,8 +1,11 @@
 ### E ai, tudo massa?
+### Yo!How’s it going?  
 
-
-- 🔭 I’m currently working on the backedn 
-- 🌱 I’m currently learning Spring Security
+- 🔭 Atualmente trabalho como instrutora de desenvolvimento com foco no backend.
+- 🔭 I’m currently working on NGO called Generation Brasil. I'm a web development instructor
+- 🌱 Aprendendo MySql | Spring | Java
+- 🌱 I’m currently learning MySql | Spring | Java
+- 😄 Pronome: ela/dela/she/her
 - 😄 Pronouns: ela/dela/she/her
 -->
 
