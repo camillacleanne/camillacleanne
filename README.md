@@ -7,7 +7,7 @@
 - 👩🏽‍💻  I currently work at [Generation Brasil](https://brazil.generation.org) I'm a web developer web full stack instructor. 
 
 - 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
-- 🌱 I’m currently learning Sql 🐬 | Spring 🍃 | Java ☕ | Angular 🅰️
+- 🌱 I’m currently learning Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
 
 - Pronouns: ela/dela/she/her
 -->
