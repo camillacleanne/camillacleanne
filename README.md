@@ -1,12 +1,18 @@
 ### E ai, tudo massa?
 ### Yo!How’s it going?  
 
-- 🔭 Atualmente trabalho como instrutora de desenvolvimento web Java com foco no backend.
-- 🔭 I’m currently working on NGO called Generation Brasil. I'm a web development instructor
-- 🌱 Aprendendo Java | Sql | Spring | Angular | Bootstrap
-- 🌱 I’m currently learning MySql | Spring | Java
+- 🔭 Atualmente trabalho na ONG Generation Br. como instrutora de desenvolvimento web full stack Java .
+- 🔭 I currently work at NGO Generation Br. I'm a web developer instructor 
+- 🌱 Aprendendo Java | Sql | Spring | Angular 
+- 🌱 I’m currently learning Sql | Spring | Java
 - 😄 Pronouns: ela/dela/she/her
 -->
+<p>
+<h3> Você pode me encontrar aqui 📍 </h3>
+</p>
+<a href="https://cutt.ly/gjrESaV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/camillacleane/" height="30" width="40" /></a>
+<a href="https://discord.gg/Camilla Cleane#4009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Camilla Cleane#4009" height="30" width="40" /></a>
+</p>
 
  <div>
   <a href="https://github.com/camillacleanne">
