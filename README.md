@@ -12,6 +12,7 @@
 - Pronouns: ela/dela/she/her
 -->
 <hr>
+<hr>
 <p>
 <h3> Você pode me encontrar nos ícones abaixo📍 </h3>
 <h3> Social network: </h3>
