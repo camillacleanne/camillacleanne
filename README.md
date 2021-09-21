@@ -1,8 +1,8 @@
-<div>
+
 ### Opa, bem vinde!
 ### Yo!How’s it going?  
-<img align="right" ![giphy](https://user-images.githubusercontent.com/57760132/134096850-426b1354-a953-4978-aa3b-32d3cfef1fd4.gif)>
-</div>
+![giphy](https://user-images.githubusercontent.com/57760132/134096850-426b1354-a953-4978-aa3b-32d3cfef1fd4.gif)
+
 - 👩🏽‍💻  Atualmente trabalho na ONG [Generation Brasil](https://brazil.generation.org) como instrutora de desenvolvimento web full stack.
 - 👩🏽‍💻  I currently work at [Generation Brasil](https://brazil.generation.org) I'm a web developer web full stack instructor. 
 
