@@ -9,8 +9,9 @@
 - 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
 - 🌱 I’m currently learning Sql 🐬 | Spring 🍃 | Java ☕ | Angular 🅰️
 
-😄 Pronouns: ela/dela/she/her
+- Pronouns: ela/dela/she/her
 -->
+<hr>
 <p>
 <h3> Você pode me encontrar nos ícones abaixo📍 </h3>
 <h3> Social network: </h3>
