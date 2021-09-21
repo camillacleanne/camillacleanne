@@ -31,9 +31,9 @@
 <div style="display: inline_block; padding-right:100">
 <a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/></a> 
 <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
-<a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/></a>
-<a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="70" height="70"/></a> 
-<a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="70"/></a>
+<a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
+<a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="50" height="50"/></a> 
+<a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
 </div>
  <hr>
 <div> 
