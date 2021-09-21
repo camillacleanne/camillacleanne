@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
 
 - Pronouns: ela/dela/she/her
--->
+
 <hr>
 <hr>
 <p>
