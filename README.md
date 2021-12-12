@@ -1,5 +1,5 @@
 
-### Opa, bem vinde! Sou Camilla, mas também podes me chamar de Camis
+### Opa, bem vinde! Sou Camilla, mas também podes me chamar de Camis (:
 ### Yo!How’s it going?  
 <img src="https://user-images.githubusercontent.com/57760132/134096850-426b1354-a953-4978-aa3b-32d3cfef1fd4.gif" align="left" alt="imagem gupy camis" width="250"/>
 
